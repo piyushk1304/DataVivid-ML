@@ -1,8 +1,7 @@
 # DataVivid ML App 🚀
 
 ## Demo
-![Recording 2025-02-21 124352](https://github.com/user-attachments/assets/dd3d1a3c-ec6a-4f35-a491-06a511bf42a6)
-
+[Watch the Demo]()
 ## Overview
 This repository hosts *DataVivid ML App*, a dynamic Streamlit-based tool designed to simplify data exploration and machine learning. Upload a CSV file, dive into colorful visualizations, preprocess your data with ease, and unleash powerful ML models—all with an intuitive, flair-filled interface. Built with Python, Scikit-learn, and a passion for vivid data insights, this app empowers users of all levels to analyze and predict with style! 🌟
 
@@ -65,8 +64,5 @@ The app will launch locally. Visit http://localhost:8501 in your browser to dive
 
 ## Contributing 🤝
 Love data and vibrant visuals? Fork this repo, report issues, or submit pull requests to enhance *DataVivid ML App*. Let’s make data exploration dazzling together!
-
-## License 📜
-MIT License—see [LICENSE](LICENSE) for details.
 
 Built with 💖 by piyushk1304 using Streamlit and Scikit-learn. Dive in and make your data pop! 🎉
