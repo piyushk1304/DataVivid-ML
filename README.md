@@ -30,7 +30,7 @@ Building this app came with its share of hurdles:
 - **Streamlit Layout**: Managing the sequential rendering of widgets in Streamlit demanded a thoughtful UI design to keep the experience smooth and logical.
 
 Please, try the app here:  
-[Streamlit App](https://datavivid-ml-app.streamlit.app) *(Update with your actual deployment link)*
+[Streamlit App](https://datavivid-ml.streamlit.app/)
 
 ---
 
