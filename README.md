@@ -64,5 +64,3 @@ The app will launch locally. Visit http://localhost:8501 in your browser to dive
 
 ## Contributing 🤝
 Love data and vibrant visuals? Fork this repo, report issues, or submit pull requests to enhance *DataVivid ML App*. Let’s make data exploration dazzling together!
-
-Built with 💖 by piyushk1304 using Streamlit and Scikit-learn. Dive in and make your data pop! 🎉
